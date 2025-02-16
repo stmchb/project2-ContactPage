@@ -1,0 +1,9 @@
+.contact_us {
+  width: 1000px;
+  margin: 0 auto;
+}
+.contact_us p {
+  font-weight: 600;
+  line-height: 24px;
+  color: #5a5959;
+}
